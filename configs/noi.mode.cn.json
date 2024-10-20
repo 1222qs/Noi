@@ -16,6 +16,12 @@
       "text": "AI（内陆版）"
     },
     {
+      "id": "noi@special",
+      "parent": 0,
+      "dir": true,
+      "text": "AI（国内镜像以及一些资源站）"
+    },
+    {
       "id": "noi@dev",
       "parent": 0,
       "dir": true,
@@ -218,6 +224,30 @@
       "parent": "noi@code",
       "text": "码蹄集",
       "url": "https://www.matiji.net/exam/ojquestionlist"
+    },
+    {
+      "id": "noi:lg",
+      "parent": "noi@code",
+      "text": "洛谷",
+      "url": "https://www.luogu.com.cn/"
+    },
+    {
+      "id": "noi:SoruxGPT",
+      "parent": "noi@special",
+      "text": "SoruxGPT",
+      "url": "https://www.soruxnet.com"
+    },
+    {
+      "id": "noi:ca",
+      "parent": "noi@special",
+      "text": "Choose-Car",
+      "url": "https://free.jlkjy.cn/list"
+    },
+    {
+      "id": "noi:all",
+      "parent": "noi@special",
+      "text": "Free ChatGPT Site List",
+      "url": "https://cc.ai55.cc/"
     }
   ]
 }
