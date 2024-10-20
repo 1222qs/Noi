@@ -34,6 +34,12 @@
       "text": "Video"
     },
     {
+      "id": "noi@code",
+      "parent": 0,
+      "dir": true,
+      "text": "Code"
+    },
+    {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
@@ -206,6 +212,12 @@
       "parent": "noi@video",
       "text": "哔哩哔哩",
       "url": "https://www.bilibili.com"
+    },
+    {
+      "id": "noi:mtj",
+      "parent": "noi@code",
+      "text": "码蹄集",
+      "url": "https://www.matiji.net/exam/ojquestionlist"
     }
   ]
 }
